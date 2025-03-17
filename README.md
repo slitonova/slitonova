@@ -66,13 +66,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](file:///C:/Users/73196/Desktop/projects/svetlana_litonova-bitva_pokemonov_novyj_reakt.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/slitonova/slitonova/refs/heads/main/svetlana_litonova-bitva_pokemonov_novyj_reakt.png)
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](file:///C:/Users/73196/Desktop/projects/077564f094e.png)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/slitonova/slitonova/refs/heads/main/077564f094e.png)
 
 <br>
 <br>

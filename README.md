@@ -6,12 +6,9 @@
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=slitonova)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=slitonova)
 
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=high-contrast&username=slitonova)
 
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
 
@@ -59,8 +56,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 
 <br>
@@ -81,4 +76,3 @@
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:s9688764307@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/slitonova)
 
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
